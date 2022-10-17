@@ -6,7 +6,7 @@
 
 The objective of this project is to perform exploratory data analysis on a movie dataset in order to determine the relationship between variables.
 
-Data used in this project can be obtained from the [zippedData] (https://github.com/angela-cheruto9/dsc-phase-1-project/tree/master/zippedData) in the project repository.
+Data used in this project can be obtained from the [zippedData](https://github.com/angela-cheruto9/dsc-phase-1-project/tree/master/zippedData) in the project repository.
 
 ## Project aim
 
