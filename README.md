@@ -13,7 +13,7 @@ Data used in this project can be obtained from the [zippedData] (https://github.
 Analyse and determine the relationship between variables in the movie dataset.
 
 ## Data
-The project uses data that can be found in the project [Github repository]()
+The project uses data that can be found in the project [Github repository](https://github.com/angela-cheruto9/dsc-phase-1-project).
 
 ## Project Overview
 
