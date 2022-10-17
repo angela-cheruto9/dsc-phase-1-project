@@ -6,9 +6,14 @@
 
 The objective of this project is to perform exploratory data analysis on a movie dataset in order to determine the relationship between variables.
 
-Data used in this project can be obtained from the [zipped_data](https://github.com/angela-cheruto9/dsc-phase-1-project/tree/master/zippedData)in this Github repository.
+Data used in this project can be obtained from the [zippedData] (https://github.com/angela-cheruto9/dsc-phase-1-project/tree/master/zippedData) in the project repository.
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+## Project aim
+
+Analyse and determine the relationship between variables in the movie dataset.
+
+## Data
+The project uses data that can be found in the project [Github repository]()
 
 ## Project Overview
 
