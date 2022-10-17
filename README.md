@@ -1,6 +1,12 @@
-# Phase 1 Project
+# Imdb Movie analysis
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+![image](https://user-images.githubusercontent.com/104419035/196172550-dde13a68-3382-4794-8214-5bcd2207ad71.png)
+
+
+## Overview
+
+The objective of this project is to perform exploratory data analysis on a movie dataset in order to determine the relationship between each variable.
+
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
 
