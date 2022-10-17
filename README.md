@@ -1,6 +1,6 @@
 # Imdb Movie analysis
 
-![image](https://user-images.githubusercontent.com/104419035/196173059-0c9a25d5-6e77-438d-96ab-b28b4642cc1e.png)
+![image](https://user-images.githubusercontent.com/104419035/196173305-b84507e2-5c35-4a23-9202-486854ea24c1.png)
 
 
 ![image](https://user-images.githubusercontent.com/104419035/196172550-dde13a68-3382-4794-8214-5bcd2207ad71.png)
