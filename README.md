@@ -1,5 +1,8 @@
 # Imdb Movie analysis
 
+![image](https://user-images.githubusercontent.com/104419035/196173059-0c9a25d5-6e77-438d-96ab-b28b4642cc1e.png)
+
+
 ![image](https://user-images.githubusercontent.com/104419035/196172550-dde13a68-3382-4794-8214-5bcd2207ad71.png)
 
 
