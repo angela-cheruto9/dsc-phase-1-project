@@ -31,11 +31,13 @@ The project uses data that can be found in the project [Github repository](https
 
 BV made the most total_gross from the graph above.
 
-![Screenshot (395)](https://user-images.githubusercontent.com/104419035/197984403-481dd18e-aa83-443b-8118-6bba1fa494f0.png)
+![Screenshot (395)](https://user-images.githubusercontent.com/104419035/197987119-a44f7ac1-e24a-46dd-9d21-79a70b0cf896.png)
+
 
 Drama is the most produced genre as it carries the most count.
 
-![Screenshot (396)](https://user-images.githubusercontent.com/104419035/197984532-428be44c-e4e4-49ed-9ff5-a2cea2c4a0f4.png)
+![Screenshot (396)](https://user-images.githubusercontent.com/104419035/197987585-f9a5e2b2-7a6a-4083-b317-0b16b82f2014.png)
+
 
 Action has the most votes in the top movie selection.
 
